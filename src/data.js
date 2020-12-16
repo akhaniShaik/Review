@@ -2,7 +2,7 @@ const reviews = [
   {
     id: 1,
     name: "susan smith",
-    Job: "Web Developer",
+    job: "Web Developer",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
     text:
